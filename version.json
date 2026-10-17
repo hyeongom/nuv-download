@@ -1,13 +1,13 @@
 {
-  "windows": "1.14.1",
-  "android": "2.6.1",
-  "androidVersionCode": 36,
+  "windows": "1.14.2",
+  "android": "2.6.2",
+  "androidVersionCode": 37,
   "downloads": {
-    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.14.1-2.6.1/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.14.1-2.6.1/NUV-Windows.zip"
+    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.14.2-2.6.2/NUV-Android.apk",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.14.2-2.6.2/NUV-Windows.zip"
   },
   "sha256": {
-    "NUV-Android.apk": "6b2c68b7233bedf6d6597073556f2a11abb8a04f8a80b0c8add34e3e3671fec3",
-    "NUV-Windows.zip": "8691d7df3950c46146c3393d58e1bbcc1cad69bcf8517a46af958db536e6b8a7"
+    "NUV-Android.apk": "4c488bc93484400a6f136da75e3258337d1cf6ac0cae8c5cc6f30fb3b953c3f9",
+    "NUV-Windows.zip": "254d4cfd242a2bd2955eaf43a70e85a8b0da46d06a12940a2ab6e7a9d2d2ede5"
   }
 }
