@@ -1,0 +1,16 @@
+{
+  "channel": "beta",
+  "windows": "1.15.1",
+  "android": "2.7.1",
+  "androidVersionCode": 39,
+  "downloads": {
+    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1/NUV-Android.apk",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1/NUV-Windows.zip"
+  },
+  "sha256": {
+    "NUV-Android.apk": "e4f8a8bf5ccd6686174daa68336c69c6ba29394c33c03c87f541383ddbf29e23",
+    "NUV-Windows.zip": "68575fc67f0d6e4177fbc1e54473378806583f2d819eb7017c9b3ebbe28298c8"
+  },
+  "notes": "테스트 채널 기준 빌드. 다음 개발 버전부터 정식 배포 전에 이 채널에서 먼저 제공합니다."
+}
+
