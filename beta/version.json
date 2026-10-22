@@ -4,13 +4,14 @@
   "android": "2.7.1",
   "androidVersionCode": 39,
   "downloads": {
-    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1/NUV-Windows.zip"
+    "NUV-Beta-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1-beta.1/NUV-Beta-Android.apk",
+    "NUV-Beta-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1-beta.1/NUV-Beta-Windows.zip"
   },
   "sha256": {
-    "NUV-Android.apk": "e4f8a8bf5ccd6686174daa68336c69c6ba29394c33c03c87f541383ddbf29e23",
-    "NUV-Windows.zip": "68575fc67f0d6e4177fbc1e54473378806583f2d819eb7017c9b3ebbe28298c8"
+    "NUV-Beta-Android.apk": "c6070d8e40f594949686b22fd67764f1a79636ef11ad2e7fdb6637f72f548732",
+    "NUV-Beta-Windows.zip": "32a7192a20202fc26b6e6c382b5f5ecc1f9bf19063aef7acc985d31442351775"
   },
-  "notes": "테스트 채널 기준 빌드. 다음 개발 버전부터 정식 배포 전에 이 채널에서 먼저 제공합니다."
+  "notes": "정식 앱과 별도로 설치되는 테스트 채널 첫 빌드입니다. Android와 Windows 모두 NUV 테스트로 표시됩니다."
 }
+
 
