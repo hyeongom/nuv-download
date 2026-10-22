@@ -9,9 +9,9 @@
   },
   "sha256": {
     "NUV-Beta-Android.apk": "c6070d8e40f594949686b22fd67764f1a79636ef11ad2e7fdb6637f72f548732",
-    "NUV-Beta-Windows.zip": "32a7192a20202fc26b6e6c382b5f5ecc1f9bf19063aef7acc985d31442351775"
+    "NUV-Beta-Windows.zip": "95c3c59d22662cb9d2f13da8a921951f960b1041b8b715255e62e923789a6454"
   },
-  "notes": "정식 앱과 별도로 설치되는 테스트 채널 첫 빌드입니다. Android와 Windows 모두 NUV 테스트로 표시됩니다."
+  "notes": "정식 앱과 별도로 설치되는 테스트 채널 첫 빌드입니다. Android와 Windows 모두 NUV 테스트로 표시되며 Netflix에서 미디어 이전·다음 키를 10초 뒤로·앞으로 처리합니다."
 }
 
 
