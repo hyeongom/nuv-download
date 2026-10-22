@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta name="robots" content="noindex,nofollow">
+  <title>NUV 테스트 버전</title>
+  <style>
+    :root { color-scheme: dark; font-family: system-ui, sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #101318; color: #f5f7fa; min-height: 100svh; display: grid; place-items: center; }
+    main { width: min(100% - 40px, 500px); padding: 32px 0; }
+    .mark { color: #f8c15c; font-size: 14px; font-weight: 800; letter-spacing: .12em; }
+    h1 { font-size: 30px; line-height: 1.3; margin: 14px 0; }
+    p { color: #bac1cc; line-height: 1.75; }
+    .notice { margin: 24px 0; padding: 18px; border: 1px solid #5d4a25; border-radius: 14px; background: #211b10; }
+    .notice strong { color: #ffd27d; }
+    .download { display: block; padding: 17px 22px; margin: 18px 0 8px; background: #f8c15c; color: #17130b; text-align: center; text-decoration: none; font-weight: 800; border-radius: 14px; }
+    .download.windows { background: #dce4ef; color: #101318; }
+    .version { margin-top: 0; font-size: 13px; text-align: center; }
+    .flow { margin-top: 28px; padding-top: 22px; border-top: 1px solid #303743; }
+    .stable { color: #8fc6ff; }
+    footer { margin-top: 30px; font-size: 13px; }
+    footer a { color: #9ecbff; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="mark">NUV BETA</div>
+    <h1>테스트 버전 다운로드</h1>
+    <p>새 기능과 수정 사항을 정식 배포 전에 확인하는 페이지입니다.</p>
+
+    <div class="notice">
+      <strong>테스트 전용</strong>
+      <p>오류가 있을 수 있습니다. 중요한 프로필은 PC에서 먼저 확인하고 사용해 주세요. 현재 파일은 테스트 채널의 기준 빌드이며, 다음 개발 버전부터 이 페이지에서 먼저 배포됩니다.</p>
+    </div>
+
+    <a class="download" href="https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1/NUV-Android.apk">Android 테스트 앱 설치</a>
+    <p class="version">기준 빌드 2.7.1 · Android APK</p>
+
+    <a class="download windows" href="https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1/NUV-Windows.zip">Windows 테스트 앱 다운로드</a>
+    <p class="version">기준 빌드 1.15.1 · Windows 64비트</p>
+
+    <div class="flow">
+      <p><strong>배포 순서</strong></p>
+      <p>개발 빌드 → 이 테스트 페이지에서 검증 → 확인된 버전만 정식 페이지에 배포</p>
+      <p class="stable">일반 사용자는 정식 설치 페이지를 이용해 주세요.</p>
+    </div>
+
+    <footer><a href="../">정식 설치 페이지로 이동</a></footer>
+  </main>
+</body>
+</html>
+
