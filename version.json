@@ -1,16 +1,16 @@
 {
-  "windows": "1.18.2",
+  "windows": "1.19.0",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.2-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.19.0-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
     "NUV-Browser-Extension-0.1.1-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.1-2.8.0/NUV-Browser-Extension-0.1.1-dev.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "ef1def0c8fb1fb22e2499cf14802fb58e8224d6079b1d96e42af2dc8dd4fb76c",
+    "NUV-Windows.zip": "c1dc8dd19ef8b46a9c23238611b48d1b32bb27c0c8385b523ebd9e847c92e682",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
     "NUV-Browser-Extension-0.1.1-dev.zip": "17925bb2528f7a705aa1fd624c7831b32b82d795436ba1daed508000d713dc89"
   },
-  "notes": "오디오 및 미디어에 영상 전체화면 공통 항목 추가. 확장 관리 주소 복사 및 붙여넣기 안내 수정. Android 2.8.0과 확장 0.1.1 유지."
+  "notes": "F키 프리셋 저장·선택·이름 변경·삭제 및 다음 프리셋 전환 동작 추가. 전환할 때만 변경 이름을 2초간 표시합니다. Android 2.8.0 및 확장 0.1.1 유지."
 }
