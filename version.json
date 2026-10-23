@@ -1,14 +1,14 @@
 {
-  "windows": "1.16.0",
+  "windows": "1.17.0",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.17.0-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk"
   },
   "sha256": {
-    "NUV-Windows.zip": "998fb77350e28431a6a503279ff9e330f1a3849283222f13b9ca796117c651bb",
+    "NUV-Windows.zip": "36da2c0dd26a6a363bfffbf380e9e365c2554469bcb246387117f2d3fee59ce4",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f"
   },
-  "notes": "YouTube 이전·다음 영상 동작 분리, 공통 미디어 지원 확인, 계정별 PC 등록과 플랜 제한 및 구독 상태 표시 개선"
+  "notes": "영상 제어 탭: YouTube·Netflix·Disney+의 공식 단축키 기반 16개 동작. 키 설정·우클릭·매크로·모바일 목록 통합. Android 2.8.0 유지."
 }
