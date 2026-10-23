@@ -1,14 +1,14 @@
 {
-  "windows": "1.17.1",
+  "windows": "1.17.2",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.17.1-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.17.2-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk"
   },
   "sha256": {
-    "NUV-Windows.zip": "bbde9fce01eb0dbb3d834847e6027b74e813372deb6f52b082ffd6f20a132c91",
+    "NUV-Windows.zip": "8c4089c9ad47f997e372b038eb0e6994a36092bd373a79eae304d9ee60c6126f",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f"
   },
-  "notes": "넷플릭스·디즈니+ 한국어 창 제목과 Chrome의 짧은 창 제목을 인식하지 못하던 영상 제어 오류 수정. Android 2.8.0 유지."
+  "notes": "영상 제어의 중복 재생·일시정지 및 10초 앞뒤 이동 선택 항목 제거. 기존 오디오 및 미디어와 저장한 키·매크로는 유지. Android 2.8.0 유지."
 }
