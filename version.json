@@ -1,14 +1,16 @@
 {
-  "windows": "1.17.2",
+  "windows": "1.18.0",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.17.2-2.8.0/NUV-Windows.zip",
-    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk"
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.0-2.8.0/NUV-Windows.zip",
+    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
+    "NUV-Browser-Extension-0.1.0-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.0-2.8.0/NUV-Browser-Extension-0.1.0-dev.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "8c4089c9ad47f997e372b038eb0e6994a36092bd373a79eae304d9ee60c6126f",
-    "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f"
+    "NUV-Windows.zip": "a0505ab21bfcdc07b8175132b22a421a006896697d9f39f22da53be6f085d1b9",
+    "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
+    "NUV-Browser-Extension-0.1.0-dev.zip": "bc6843340d977277ddb8c869ec13a69663045153df6e1d64b36d5362015e4caa"
   },
-  "notes": "영상 제어의 중복 재생·일시정지 및 10초 앞뒤 이동 선택 항목 제거. 기존 오디오 및 미디어와 저장한 키·매크로는 유지. Android 2.8.0 유지."
+  "notes": "선택형 브라우저 확장 연결·해제 추가. 미연결 시 영상 창 전환 후 원래 창 복귀. 확장은 스토어 미등록 테스트 패키지이며 설치 안내 제공. Android 2.8.0 유지."
 }
