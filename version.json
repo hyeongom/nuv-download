@@ -1,14 +1,14 @@
 {
-  "windows": "1.15.1",
-  "android": "2.7.1",
-  "androidVersionCode": 39,
+  "windows": "1.16.0",
+  "android": "2.8.0",
+  "androidVersionCode": 40,
   "downloads": {
-    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1/NUV-Windows.zip"
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Windows.zip",
+    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk"
   },
   "sha256": {
-    "NUV-Android.apk": "e4f8a8bf5ccd6686174daa68336c69c6ba29394c33c03c87f541383ddbf29e23",
-    "NUV-Windows.zip": "68575fc67f0d6e4177fbc1e54473378806583f2d819eb7017c9b3ebbe28298c8"
-  }
+    "NUV-Windows.zip": "998fb77350e28431a6a503279ff9e330f1a3849283222f13b9ca796117c651bb",
+    "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f"
+  },
+  "notes": "YouTube 이전·다음 영상 동작 분리, 공통 미디어 지원 확인, 계정별 PC 등록과 플랜 제한 및 구독 상태 표시 개선"
 }
-
