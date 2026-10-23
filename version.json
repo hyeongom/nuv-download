@@ -1,16 +1,16 @@
 {
-  "windows": "1.18.0",
+  "windows": "1.18.1",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.0-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.1-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
-    "NUV-Browser-Extension-0.1.0-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.0-2.8.0/NUV-Browser-Extension-0.1.0-dev.zip"
+    "NUV-Browser-Extension-0.1.1-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.1-2.8.0/NUV-Browser-Extension-0.1.1-dev.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "a0505ab21bfcdc07b8175132b22a421a006896697d9f39f22da53be6f085d1b9",
+    "NUV-Windows.zip": "4cccf41ccb166ad3d15993fb2eec0490936e01ebaa7b8e4aba535dd80e9bd6cb",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
-    "NUV-Browser-Extension-0.1.0-dev.zip": "bc6843340d977277ddb8c869ec13a69663045153df6e1d64b36d5362015e4caa"
+    "NUV-Browser-Extension-0.1.1-dev.zip": "17925bb2528f7a705aa1fd624c7831b32b82d795436ba1daed508000d713dc89"
   },
-  "notes": "선택형 브라우저 확장 연결·해제 추가. 미연결 시 영상 창 전환 후 원래 창 복귀. 확장은 스토어 미등록 테스트 패키지이며 설치 안내 제공. Android 2.8.0 유지."
+  "notes": "F키 실행 오류 표시 수정. 브라우저 확장 설치 준비·PC 연결 켜기 통합, 설치 및 새로고침 안내 개선. 확장 실행 결과 표시. Android 2.8.0 유지."
 }
