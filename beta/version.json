@@ -6,12 +6,12 @@
   "downloads": {
     "NUV-Beta-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1-beta.1/NUV-Beta-Android.apk",
     "NUV-Beta-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.19.3-beta.1/NUV-Beta-Windows.zip",
-    "NUV-Browser-Extension-0.1.5-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-0.1.5-beta.1/NUV-Browser-Extension-0.1.5-dev.zip"
+    "NUV-Browser-Extension-0.1.6-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-0.1.6-beta.1/NUV-Browser-Extension-0.1.6-dev.zip"
   },
   "sha256": {
     "NUV-Beta-Android.apk": "c6070d8e40f594949686b22fd67764f1a79636ef11ad2e7fdb6637f72f548732",
     "NUV-Beta-Windows.zip": "e0caf327d029b05f0a24a1ebe70ce080e0725ff12e857e9c7e10599ea099c71a",
-    "NUV-Browser-Extension-0.1.5-dev.zip": "cce878914750b97a965041059afefacfb7c5ec4139496f891343a096e469503e"
+    "NUV-Browser-Extension-0.1.6-dev.zip": "fd8a310d65d36e827633d1f9aedb73119483f7243873d55a450a41b6a2ea204c"
   },
-  "notes": "테스트 확장 0.1.5: Netflix 진단에서 영상만 포함된 내부 영역 대신 바깥쪽 플레이어 영역도 확인하도록 수정. PC 1.19.3 beta.1 및 Android 테스트판 2.7.1 유지. 실제 회차 이동 문제는 진단 중이며 해결 완료가 아닙니다."
+  "notes": "테스트 확장 0.1.6: 사용자 진단에서 확인된 Netflix 회차 버튼·목록 구조 지원. 현재 재생 표시로 회차를 찾고 인접 회차의 미리보기를 펼쳐 재생 버튼 실행. 실제 서비스 재생 검증 대기. PC와 Android 빌드 유지."
 }
