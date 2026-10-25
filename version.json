@@ -1,16 +1,16 @@
 {
-  "windows": "1.19.1",
+  "windows": "1.19.2",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.19.1-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.19.2-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
     "NUV-Browser-Extension-0.1.1-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.18.1-2.8.0/NUV-Browser-Extension-0.1.1-dev.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "dd5386674fc327da845086ec18981e40ea5d453e2555575e6f3d05b8472a1c03",
+    "NUV-Windows.zip": "b8068cdee24e2a10708469a8a0a0b783ffd630350ee328dc9c4f0bb844a5f72a",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
     "NUV-Browser-Extension-0.1.1-dev.zip": "17925bb2528f7a705aa1fd624c7831b32b82d795436ba1daed508000d713dc89"
   },
-  "notes": "밝은·어두운 배경에 맞춰 키 글자색 자동 조정. 프리셋 선택창 가독성 수정, 프리셋 추가 버튼 명칭 변경, 전환 알림에 새 프리셋 이름만 2초간 표시. Android 2.8.0 및 확장 0.1.1 유지."
+  "notes": "새 프리셋을 빈 F키 배치로 추가. 같은 이름에는 숫자를 자동으로 붙이고 프리셋 전환 시 이름 입력칸 내용을 유지합니다. Android 2.8.0 및 확장 0.1.1 유지."
 }
