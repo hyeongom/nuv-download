@@ -1,15 +1,17 @@
 {
   "channel": "beta",
-  "windows": "1.15.1",
+  "windows": "1.19.3",
   "android": "2.7.1",
   "androidVersionCode": 39,
   "downloads": {
     "NUV-Beta-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1-beta.1/NUV-Beta-Android.apk",
-    "NUV-Beta-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1-beta.1/NUV-Beta-Windows.zip"
+    "NUV-Beta-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.19.3-beta.1/NUV-Beta-Windows.zip",
+    "NUV-Browser-Extension-0.1.2-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.19.3-beta.1/NUV-Browser-Extension-0.1.2-dev.zip"
   },
   "sha256": {
     "NUV-Beta-Android.apk": "c6070d8e40f594949686b22fd67764f1a79636ef11ad2e7fdb6637f72f548732",
-    "NUV-Beta-Windows.zip": "9d1619825a940b056ca7ede41e7cb3d842f4e063e0cfa02941a37ce4031ca124"
+    "NUV-Beta-Windows.zip": "e0caf327d029b05f0a24a1ebe70ce080e0725ff12e857e9c7e10599ea099c71a",
+    "NUV-Browser-Extension-0.1.2-dev.zip": "65d35f7d5926412d3c21a83c2f084a42b80a40e76c3bacc28570137c1c87fef5"
   },
-  "notes": "정식 앱과 별도로 설치되는 테스트 채널 첫 빌드입니다. Android와 Windows 모두 NUV 테스트로 표시되며 미디어 이전·다음은 현재 재생 세션에 이전 영상·다음 영상을 요청합니다."
+  "notes": "PC 1.19.3 beta.1: Netflix 이전 화·다음 화(확장 0.1.2 필요), 프리셋 전환 알림 보완. 실제 Netflix 재생 검증은 진행 중이며 현재 시즌 회차 목록 중심으로 동작합니다. Android 테스트판 2.7.1 유지."
 }
