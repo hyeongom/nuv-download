@@ -43,15 +43,15 @@
     <p class="version">테스트 빌드 1.19.3 beta.1 · NUV 테스트</p>
 
     <section class="flow">
-      <h2>Netflix 마지막 실행 단계 확인 · 확장 0.1.8</h2>
-      <p>0.1.7에서도 이전 화가 실패하는 것을 확인했습니다. 이번 버전은 마지막 명령이 어느 단계까지 처리됐는지 확장에 표시하고 복사할 수 있게 합니다. <strong>이전 화 문제가 해결된 버전은 아닙니다.</strong> PC와 모바일 앱은 다시 설치할 필요 없습니다.</p>
-      <a class="download windows" href="https://github.com/hyeongom/nuv-download/releases/download/browser-0.1.8-beta.1/NUV-Browser-Extension-0.1.8-dev.zip">테스트 확장 0.1.8 다운로드</a>
+      <h2>Netflix 이전 회차 재생 버튼 탐색 수정 · 확장 0.1.9</h2>
+      <p>실행 기록에서 이전 회차를 선택한 뒤 재생 버튼을 찾지 못한 것을 확인했습니다. 선택 후 목록이 새로 그려지는 경우와, 미리보기 표식이 그대로여도 버튼이 보이는 경우를 처리하도록 수정했습니다. <strong>재현 테스트를 통과했으며 실제 Netflix 이전 화 재생 성공은 아직 확인이 필요합니다.</strong> PC와 모바일 앱은 다시 설치할 필요 없습니다.</p>
+      <a class="download windows" href="https://github.com/hyeongom/nuv-download/releases/download/browser-0.1.9-beta.1/NUV-Browser-Extension-0.1.9-dev.zip">테스트 확장 0.1.9 다운로드</a>
       <h2>확장 업데이트</h2>
       <ol>
         <li>위 ZIP을 다운로드하고 압축을 푸세요. <code>popup.html</code>을 직접 열지 마세요.</li>
         <li>Chrome 주소창에 <code>chrome://extensions</code>를 입력하세요. Edge는 <code>edge://extensions</code>입니다.</li>
-        <li>개발자 모드 → ‘압축해제된 확장 프로그램 로드’에서 <strong>이번에 푼 0.1.8 폴더</strong>를 선택하세요. 기존 NUV 확장을 교체하며 확장 ID는 같습니다.</li>
-        <li>확장 카드의 버전이 <strong>0.1.8</strong>인지 확인하고 <strong>넷플릭스 영상 탭도 새로고침</strong>하세요.</li>
+        <li>개발자 모드 → ‘압축해제된 확장 프로그램 로드’에서 <strong>이번에 푼 0.1.9 폴더</strong>를 선택하세요. 기존 NUV 확장을 교체하며 확장 ID는 같습니다.</li>
+        <li>확장 카드의 버전이 <strong>0.1.9</strong>인지 확인하고 <strong>넷플릭스 영상 탭도 새로고침</strong>하세요.</li>
       </ol>
       <p>PC 앱의 ‘설치 준비’는 아직 이전 확장 0.1.2를 제공합니다. 이번 진단은 반드시 위 ZIP의 폴더를 로드해주세요.</p>
       <h2>회차 이동 테스트</h2>
@@ -60,9 +60,9 @@
         <li>넷플릭스 시리즈를 재생한 뒤 NUV의 <strong>Netflix 다음 화</strong>와 <strong>Netflix 이전 화</strong>를 각각 한 번씩 눌러보세요.</li>
         <li>현재 시즌의 첫 화에서 이전 화로 이동하는 기능은 지원하지 않습니다. 시즌은 넷플릭스에서 선택하세요.</li>
       </ol>
-      <h2>이번에 보내주실 실행 기록</h2>
+      <h2>문제가 계속될 때 실행 기록 보내기</h2>
       <ol>
-        <li>확장 0.1.8을 로드하고 Netflix 영상 탭을 새로고침하세요.</li>
+        <li>확장 0.1.9을 로드하고 Netflix 영상 탭을 새로고침하세요.</li>
         <li>NUV 테스트에 연결한 상태에서 <strong>이전 화</strong>를 한 번 누르세요.</li>
         <li>Chrome 퍼즐 아이콘 → NUV 확장을 열고 위쪽의 <strong>마지막 실행 기록 복사</strong>를 누른 뒤 채팅에 붙여넣으세요.</li>
       </ol>
