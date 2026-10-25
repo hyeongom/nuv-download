@@ -6,12 +6,12 @@
   "downloads": {
     "NUV-Beta-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.15.1-2.7.1-beta.1/NUV-Beta-Android.apk",
     "NUV-Beta-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.19.3-beta.1/NUV-Beta-Windows.zip",
-    "NUV-Browser-Extension-0.1.11-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-0.1.11-beta.1/NUV-Browser-Extension-0.1.11-dev.zip"
+    "NUV-Browser-Extension-0.1.12-dev.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-0.1.12-beta.1/NUV-Browser-Extension-0.1.12-dev.zip"
   },
   "sha256": {
     "NUV-Beta-Android.apk": "c6070d8e40f594949686b22fd67764f1a79636ef11ad2e7fdb6637f72f548732",
     "NUV-Beta-Windows.zip": "e0caf327d029b05f0a24a1ebe70ce080e0725ff12e857e9c7e10599ea099c71a",
-    "NUV-Browser-Extension-0.1.11-dev.zip": "2e3b8df4ea0d726787051e3bfe237c56db0e257b02cbd7bddc0f361ec8e2365c"
+    "NUV-Browser-Extension-0.1.12-dev.zip": "0a5d27ca2bdce1f2725a9caf0161a06d9529459986943bfed473c3efffe6da4b"
   },
-  "notes": "테스트 확장 0.1.11: 이전 회차의 누름·뗌 이벤트 처리 검증안. 실제 Netflix 이전 화 재생은 미확인. PC/Android 유지."
+  "notes": "테스트 확장 0.1.12: 열린 이전 회차 미리보기의 재생 버튼에도 누름·뗌 입력을 적용. 실제 재생 성공은 확인 필요. PC/Android 유지."
 }
