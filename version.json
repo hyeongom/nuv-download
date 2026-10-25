@@ -1,18 +1,18 @@
 {
-  "windows": "1.20.1",
+  "windows": "1.20.2",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.1-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.2-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
-    "NUV-Browser-Extension-0.2.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.0-2.8.0/NUV-Browser-Extension-0.2.0.zip"
+    "NUV-Browser-Extension-0.2.1.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.2-2.8.0/NUV-Browser-Extension-0.2.1.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "792d801729fc28e24ea50e5566524d7604c46eb4a63555483938abe94a1057e3",
+    "NUV-Windows.zip": "6723538f911173db86a5e4a8e5c0247daf15645b98c46e6ebd454f8bc6868629",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
-    "NUV-Browser-Extension-0.2.0.zip": "835e24c2556e6433d96001b45c835104a71b8b7366bc34eaf623aeca56a5bff4"
+    "NUV-Browser-Extension-0.2.1.zip": "d25b56c6947c383360683c9b9576eb87b4de88d4f90fce7dd0e675881fecbd84"
   },
-  "notes": "PC 1.20.1: 긴 키 이름으로 화면이 가로로 늘어나 잘리는 문제 수정. 키 이름은 두 줄과 말줄임으로 표시하며 마우스를 올리면 전체 이름 확인. 좁은 창에서 상단 버튼 배치 보완. 확장 0.2.0 / Android 2.8.0 유지.",
+  "notes": "PC 1.20.2 / 확장 0.2.1: 확장 업데이트 후 영상 탭을 새로고침하지 않아도 첫 키 실행 시 제어 연결을 자동 복구합니다. 최초 적용은 PC 업데이트 → 브라우저 연결의 설치 준비·연결 켜기 → 확장 관리에서 NUV 다시 로드 및 권한 확인. Android 2.8.0 유지.",
   "channel": "stable",
-  "browserExtension": "0.2.0"
+  "browserExtension": "0.2.1"
 }
