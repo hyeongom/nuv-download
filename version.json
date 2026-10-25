@@ -1,18 +1,18 @@
 {
-  "windows": "1.20.0",
+  "windows": "1.20.1",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.0-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.1-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
     "NUV-Browser-Extension-0.2.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.0-2.8.0/NUV-Browser-Extension-0.2.0.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "cafbfca860ac89bfae498300064f29b9909102a277f0c873ef9d983a5dcf410a",
+    "NUV-Windows.zip": "792d801729fc28e24ea50e5566524d7604c46eb4a63555483938abe94a1057e3",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
     "NUV-Browser-Extension-0.2.0.zip": "835e24c2556e6433d96001b45c835104a71b8b7366bc34eaf623aeca56a5bff4"
   },
-  "notes": "PC 1.20.0 / 확장 0.2.0: Netflix 이전 화·다음 화, 확장 업데이트 버튼, 정식·테스트 확장 분리. 최초 1회 NUV가 준비한 폴더로 확장을 등록하세요. 정식 진단 UI 제외. Android 2.8.0 유지.",
+  "notes": "PC 1.20.1: 긴 키 이름으로 화면이 가로로 늘어나 잘리는 문제 수정. 키 이름은 두 줄과 말줄임으로 표시하며 마우스를 올리면 전체 이름 확인. 좁은 창에서 상단 버튼 배치 보완. 확장 0.2.0 / Android 2.8.0 유지.",
   "channel": "stable",
   "browserExtension": "0.2.0"
 }
