@@ -43,21 +43,26 @@
     <p class="version">테스트 빌드 1.19.3 beta.1 · NUV 테스트</p>
 
     <section class="flow">
-      <h2>이번 테스트: 넷플릭스 회차 이동</h2>
-      <p>PC 키 설정 → 영상 제어 → Netflix에서 이전 화·다음 화를 지정하세요. 프리셋 전환 알림 표시 개선도 포함했습니다.</p>
-      <p>자동 검증은 통과했지만 실제 넷플릭스 재생 검증은 진행 중입니다. 회차 목록을 확인하지 못하면 이유를 표시합니다. 시즌 경계 이동은 제한됩니다.</p>
-      <a class="download windows" href="https://github.com/hyeongom/nuv-download/releases/download/v1.19.3-beta.1/NUV-Browser-Extension-0.1.2-dev.zip">브라우저 확장 0.1.2 다운로드</a>
-      <h2>설치·연결 방법</h2>
+      <h2>Netflix 회차 진단 · 확장 0.1.4</h2>
+      <p>이전 화·다음 화가 작동하지 않는 화면의 구조를 확인하는 테스트 기능입니다. <strong>회차 이동 문제가 해결된 버전은 아닙니다.</strong> PC와 모바일 앱은 다시 설치할 필요 없습니다.</p>
+      <a class="download windows" href="https://github.com/hyeongom/nuv-download/releases/download/browser-0.1.4-beta.1/NUV-Browser-Extension-0.1.4-dev.zip">진단 확장 0.1.4 다운로드</a>
+      <h2>확장 업데이트</h2>
       <ol>
-        <li>Windows ZIP을 풀고 <strong>NUV 테스트.exe</strong>를 실행하세요.</li>
-        <li>테스트 앱의 설정 → 브라우저 연결 → <strong>설치 준비·연결 켜기</strong>를 누르세요.</li>
+        <li>위 ZIP을 다운로드하고 압축을 푸세요. <code>popup.html</code>을 직접 열지 마세요.</li>
         <li>Chrome 주소창에 <code>chrome://extensions</code>를 입력하세요. Edge는 <code>edge://extensions</code>입니다.</li>
-        <li>처음 설치: 개발자 모드를 켜고 ‘압축해제된 확장 프로그램 로드’에서 NUV가 안내한 폴더를 선택하세요.</li>
-        <li>이미 설치: NUV 확장 카드에서 새로고침(↻)을 누르세요. 다른 폴더에서 설치했다면 이번 확장 폴더로 다시 로드하세요.</li>
-        <li>확장 팝업에서 연결할 NUV를 <strong>NUV 테스트</strong>로 고르고 ‘NUV 연결’을 누르세요.</li>
-        <li><strong>넷플릭스 영상 탭도 새로고침</strong>한 뒤 시리즈 중간 회차에서 이전 화·다음 화를 확인하세요.</li>
+        <li>개발자 모드 → ‘압축해제된 확장 프로그램 로드’에서 <strong>이번에 푼 0.1.4 폴더</strong>를 선택하세요. 기존 NUV 확장을 교체하며 확장 ID는 같습니다.</li>
+        <li>확장 카드의 버전이 <strong>0.1.4</strong>인지 확인하고 <strong>넷플릭스 영상 탭도 새로고침</strong>하세요.</li>
       </ol>
-      <p>확장은 정식·테스트 연결 대상을 선택하는 공용 확장입니다. 두 앱에 동시에 연결하지 않습니다. Android 테스트 앱은 이번에 변경하지 않았습니다.</p>
+      <p>PC 앱의 ‘설치 준비’는 아직 이전 확장 0.1.2를 제공합니다. 이번 진단은 반드시 위 ZIP의 폴더를 로드해주세요.</p>
+      <h2>진단 결과 보내기</h2>
+      <ol>
+        <li>넷플릭스 시리즈 영상을 재생하세요.</li>
+        <li>브라우저 퍼즐 아이콘 → NUV 브라우저 연결을 여세요. Netflix 탭이 여러 개면 진단할 탭을 고르세요.</li>
+        <li><strong>회차 진단 (3초 후)</strong>을 누르고 영상으로 돌아가 회차 목록을 펼치세요.</li>
+        <li>3초 후 다시 확장을 열어 결과를 확인하고 <strong>결과 복사</strong>를 눌러 채팅에 붙여넣으세요.</li>
+      </ol>
+      <p>진단은 PC 연결 없이 사용할 수 있습니다. 화면 글자·영상 제목·주소·로그인 정보·쿠키는 결과에 포함하지 않습니다. 버튼과 목록의 구조만 브라우저 세션에 임시 저장하며 자동 전송하지 않습니다.</p>
+      <p>NUV 키 동작을 테스트하려면 확장의 연결 대상을 <strong>NUV 테스트</strong>로 고르고 ‘NUV 연결’을 누르세요. 정식 채널은 변경하지 않았습니다.</p>
     </section>
     <div class="flow">
       <p><strong>배포 순서</strong></p>
