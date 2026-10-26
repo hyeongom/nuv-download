@@ -1,18 +1,18 @@
 {
-  "windows": "1.20.2",
+  "windows": "1.20.3",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.2-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.3-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
-    "NUV-Browser-Extension-0.2.1.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.2-2.8.0/NUV-Browser-Extension-0.2.1.zip"
+    "NUV-Browser-Extension-0.2.2.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.3-2.8.0/NUV-Browser-Extension-0.2.2.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "6723538f911173db86a5e4a8e5c0247daf15645b98c46e6ebd454f8bc6868629",
+    "NUV-Windows.zip": "f8b7c9027bf6aa967f75c81c28696ca6040c5210ce437f7d5b190508b3659340",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
-    "NUV-Browser-Extension-0.2.1.zip": "d25b56c6947c383360683c9b9576eb87b4de88d4f90fce7dd0e675881fecbd84"
+    "NUV-Browser-Extension-0.2.2.zip": "60c1cf58365dacf058ab04078c7478e32c0ac4a0c9f37dd29bd113e159d2cdaa"
   },
-  "notes": "PC 1.20.2 / 확장 0.2.1: 확장 업데이트 후 영상 탭을 새로고침하지 않아도 첫 키 실행 시 제어 연결을 자동 복구합니다. 최초 적용은 PC 업데이트 → 브라우저 연결의 설치 준비·연결 켜기 → 확장 관리에서 NUV 다시 로드 및 권한 확인. Android 2.8.0 유지.",
+  "notes": "PC 1.20.3 / 확장 0.2.2: Netflix 이전·다음 화 이동 실패 후 새로고침할 때까지 막히던 문제 수정. 잠시 기다렸다 다시 누르면 재생 상태와 현재 회차를 확인해 실행합니다. 확장 0.2.1 사용자는 확장 안의 업데이트로 적용할 수 있습니다. Android 2.8.0 유지.",
   "channel": "stable",
-  "browserExtension": "0.2.1"
+  "browserExtension": "0.2.2"
 }
