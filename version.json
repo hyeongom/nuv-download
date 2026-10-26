@@ -1,18 +1,18 @@
 {
-  "windows": "1.20.3",
+  "windows": "1.21.0",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.3-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.21.0-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
     "NUV-Browser-Extension-0.2.3.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.2.3/NUV-Browser-Extension-0.2.3.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "f8b7c9027bf6aa967f75c81c28696ca6040c5210ce437f7d5b190508b3659340",
+    "NUV-Windows.zip": "584a6ef74c925a30a8b392277834da7125446d4a647507d1f4fd6e8babe888e4",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
     "NUV-Browser-Extension-0.2.3.zip": "551a0d600933a356530827df0219a5ec4469fd39ef6b5b2dd85293a642d78375"
   },
-  "notes": "확장 0.2.3: Netflix 재생 컨트롤이 숨겨져 있을 때 이전·다음 화 키가 반응하지 않던 경로를 수정했습니다. 확장 안의 업데이트로 적용하세요. PC 1.20.3 / Android 2.8.0 유지.",
+  "notes": "PC 1.21.0: F키 프리셋 이름·F1~F12 배치 안내 및 표시 시간 설정(1~60초), 웹사이트 키별 기본/Chrome/Edge 선택, 하위 도메인 이름·아이콘 인식 수정. Android 2.8.0 / 확장 0.2.3 유지.",
   "channel": "stable",
   "browserExtension": "0.2.3"
 }
