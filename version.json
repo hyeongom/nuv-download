@@ -5,14 +5,14 @@
   "downloads": {
     "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.3-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
-    "NUV-Browser-Extension-0.2.2.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.20.3-2.8.0/NUV-Browser-Extension-0.2.2.zip"
+    "NUV-Browser-Extension-0.2.3.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.2.3/NUV-Browser-Extension-0.2.3.zip"
   },
   "sha256": {
     "NUV-Windows.zip": "f8b7c9027bf6aa967f75c81c28696ca6040c5210ce437f7d5b190508b3659340",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
-    "NUV-Browser-Extension-0.2.2.zip": "60c1cf58365dacf058ab04078c7478e32c0ac4a0c9f37dd29bd113e159d2cdaa"
+    "NUV-Browser-Extension-0.2.3.zip": "551a0d600933a356530827df0219a5ec4469fd39ef6b5b2dd85293a642d78375"
   },
-  "notes": "PC 1.20.3 / 확장 0.2.2: Netflix 이전·다음 화 이동 실패 후 새로고침할 때까지 막히던 문제 수정. 잠시 기다렸다 다시 누르면 재생 상태와 현재 회차를 확인해 실행합니다. 확장 0.2.1 사용자는 확장 안의 업데이트로 적용할 수 있습니다. Android 2.8.0 유지.",
+  "notes": "확장 0.2.3: Netflix 재생 컨트롤이 숨겨져 있을 때 이전·다음 화 키가 반응하지 않던 경로를 수정했습니다. 확장 안의 업데이트로 적용하세요. PC 1.20.3 / Android 2.8.0 유지.",
   "channel": "stable",
-  "browserExtension": "0.2.2"
+  "browserExtension": "0.2.3"
 }
