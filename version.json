@@ -1,18 +1,18 @@
 {
-  "windows": "1.22.0",
+  "windows": "1.23.0",
   "android": "2.8.0",
   "androidVersionCode": 40,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.22.0-2.8.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.23.0-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
-    "NUV-Browser-Extension-0.3.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.22.0-2.8.0/NUV-Browser-Extension-0.3.0.zip"
+    "NUV-Browser-Extension-0.4.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.23.0-2.8.0/NUV-Browser-Extension-0.4.0.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "e49ee643a6e30d629fa8135eb21d0e8570c704c551527a061ada5202330cde18",
+    "NUV-Windows.zip": "290425c19268efb7bd33bbce13bc4f4d052752a8b04a474602e2ccd72ce8f934",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
-    "NUV-Browser-Extension-0.3.0.zip": "041d4edb50c66797be1dac745acceb8d4f87200bfecf344e80572b1f39024a21"
+    "NUV-Browser-Extension-0.4.0.zip": "539b2a52db78a309c07ab303f53b28f15d4f274b54a4b02cffe82c4d582bb546"
   },
-  "notes": "PC 1.22.0: 즐겨찾기 창 등록·해제/순환, 목록 순서 관리, 브라우저 이전·다음 탭. 확장 0.3.0: 다음 시즌과 1화 목록 확인 후 이동. Android 2.8.0 유지.",
+  "notes": "PC 1.23.0 / 확장 0.4.0: Chrome·Edge 개별 탭 즐겨찾기 등록·해제 및 순환 이동. 닫힌 창·탭 자동 삭제. 탭 기능은 확장의 선택 권한 허용 후 사용합니다. Android 2.8.0 유지.",
   "channel": "stable",
-  "browserExtension": "0.3.0"
+  "browserExtension": "0.4.0"
 }
