@@ -5,14 +5,14 @@
   "downloads": {
     "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.23.2-2.8.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.16.0-2.8.0/NUV-Android.apk",
-    "NUV-Browser-Extension-0.4.1.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.23.1-2.8.0/NUV-Browser-Extension-0.4.1.zip"
+    "NUV-Browser-Extension-0.4.2.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.4.2/NUV-Browser-Extension-0.4.2.zip"
   },
   "sha256": {
     "NUV-Windows.zip": "fd10812482aca8c6f7a82985b2bf1a0a4a4e87fc0562948e1a578362904edc82",
     "NUV-Android.apk": "f46ac77cd4226996973786463555b209fb19f3c9e702f769bef7b21d5041782f",
-    "NUV-Browser-Extension-0.4.1.zip": "730e78d9f559a7af8b514d050762069957d2b17dfdbfa923233b7a68146eaab8"
+    "NUV-Browser-Extension-0.4.2.zip": "04b51650714fdd6d4cda50edd8bc0952c1e930aa2e0336a83a48dca383f2fc64"
   },
-  "notes": "PC 1.23.2: 다음 즐겨찾기로 앱에서 Chrome·Edge 탭으로 이동할 때 창이 앞으로 나오지 않는 문제 수정. 실제 창·탭 전환 확인 추가. 확장 0.4.1 / Android 2.8.0 유지.",
+  "notes": "확장 0.4.2: Netflix 시즌 첫 화 → 이전 시즌 마지막 화 이동 수정. PC 1.23.2 / Android 2.8.0 유지. 확장 업데이트 버튼으로 받을 수 있습니다.",
   "channel": "stable",
-  "browserExtension": "0.4.1"
+  "browserExtension": "0.4.2"
 }
