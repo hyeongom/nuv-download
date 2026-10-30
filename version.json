@@ -1,18 +1,18 @@
 {
-  "windows": "1.24.0",
+  "windows": "1.25.0",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Windows.zip",
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Browser-Extension-0.4.2.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.4.2/NUV-Browser-Extension-0.4.2.zip"
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.25.0-2.9.0/NUV-Windows.zip",
+    "NUV-Browser-Extension-0.5.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.25.0-2.9.0/NUV-Browser-Extension-0.5.0.zip"
   },
   "sha256": {
-    "NUV-Windows.zip": "10167291801dee93d661458f8866fda12c059fc83ba343c9a026da924caf55e0",
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Browser-Extension-0.4.2.zip": "04b51650714fdd6d4cda50edd8bc0952c1e930aa2e0336a83a48dca383f2fc64"
+    "NUV-Windows.zip": "97f50fb42fc61c48dea75722d24b9ad763047ec75d2ddc463ce1efc3334e5a67",
+    "NUV-Browser-Extension-0.5.0.zip": "9e03d7180b6ef5c4b4795dee58a54fc826abb1089a5d3154daacec6da1bcf574"
   },
-  "notes": "PC 1.24.0 / Android 2.9.0: 모바일 F키 프리셋 관리, 안내 시간 1~60초, 창·탭 즐겨찾기 순서·등록 해제, 웹사이트 브라우저 선택. 새 설정은 PC와 모바일을 함께 업데이트하세요. 확장 0.4.2 유지.",
+  "notes": "PC 1.25.0 / 확장 0.5.0: 작업 공간별 창·탭 전환. 설정 → 작업 공간에서 항목을 선택하고 키 우클릭 → 창·브라우저 → 작업 공간 전환으로 지정하세요. 브라우저 탭은 NUV 즐겨찾기에 먼저 등록합니다. Android 2.9.0 유지.",
   "channel": "stable",
-  "browserExtension": "0.4.2"
+  "browserExtension": "0.5.0"
 }
