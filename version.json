@@ -1,18 +1,18 @@
 {
-  "windows": "1.27.0",
+  "windows": "1.27.1",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.0-2.9.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.1-2.9.0/NUV-Windows.zip",
     "NUV-Browser-Extension-0.7.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.0-2.9.0/NUV-Browser-Extension-0.7.0.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "504ad1b5b5144e0d3cba5050f630425ddfec7921a48eba2fbc148c01f668b7b1",
+    "NUV-Windows.zip": "e23d27be0a9cbd93e1addbca4609ac9eaf080e3399a2a2f937b48072ed9a65df",
     "NUV-Browser-Extension-0.7.0.zip": "64bc55fe791a3047ec4210dd9a7e0f8195a2c60bcfffec6d81a11056c6882772"
   },
-  "notes": "PC 1.27.0 / 확장 0.7.0: 작업 묶음 전용 메뉴, 다음 작업 묶음 키, 현재 저장 대상 표시, 열린 창·탭 선택 후 한 번에 키 지정. Android 2.9.0 유지.",
+  "notes": "PC 1.27.1: 키 우클릭 → 작업 묶음 → 저장된 이름을 선택하면 바로 키에 지정됩니다. 기존 관리 화면 유지. 확장 0.7.0·Android 2.9.0 변경 없음.",
   "channel": "stable",
   "browserExtension": "0.7.0"
 }
