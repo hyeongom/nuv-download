@@ -1,18 +1,18 @@
 {
-  "windows": "1.27.1",
+  "windows": "1.27.2",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.1-2.9.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.2-2.9.0/NUV-Windows.zip",
     "NUV-Browser-Extension-0.7.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.0-2.9.0/NUV-Browser-Extension-0.7.0.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "e23d27be0a9cbd93e1addbca4609ac9eaf080e3399a2a2f937b48072ed9a65df",
+    "NUV-Windows.zip": "eb3ea7ef2e3c37bf8b0d864fedf4b1df0a0ff42f34bba5f845ea8cbd521b44b6",
     "NUV-Browser-Extension-0.7.0.zip": "64bc55fe791a3047ec4210dd9a7e0f8195a2c60bcfffec6d81a11056c6882772"
   },
-  "notes": "PC 1.27.1: 키 우클릭 → 작업 묶음 → 저장된 이름을 선택하면 바로 키에 지정됩니다. 기존 관리 화면 유지. 확장 0.7.0·Android 2.9.0 변경 없음.",
+  "notes": "PC 1.27.2: 작업 묶음 지정 선택창에서 이름을 검색하고 고를 수 있습니다. 메뉴에 펼쳐진 이름 목록 제거, 기존 만들기·편집 유지. 확장 0.7.0·Android 2.9.0 변경 없음.",
   "channel": "stable",
   "browserExtension": "0.7.0"
 }
