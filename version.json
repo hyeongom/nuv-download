@@ -1,18 +1,18 @@
 {
-  "windows": "1.26.0",
+  "windows": "1.27.0",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.26.0-2.9.0/NUV-Windows.zip",
-    "NUV-Browser-Extension-0.6.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.26.0-2.9.0/NUV-Browser-Extension-0.6.0.zip"
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.0-2.9.0/NUV-Windows.zip",
+    "NUV-Browser-Extension-0.7.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.0-2.9.0/NUV-Browser-Extension-0.7.0.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "1ac074437e9495a8d267423f1705689027a868c2441c22d8bb38a7268961a26c",
-    "NUV-Browser-Extension-0.6.0.zip": "a179725be6b54503e953bc8a3928379f0252321220f71f554dcc1dd476f71b27"
+    "NUV-Windows.zip": "504ad1b5b5144e0d3cba5050f630425ddfec7921a48eba2fbc148c01f668b7b1",
+    "NUV-Browser-Extension-0.7.0.zip": "64bc55fe791a3047ec4210dd9a7e0f8195a2c60bcfffec6d81a11056c6882772"
   },
-  "notes": "PC 1.26.0 / 확장 0.6.0: 새 작업 묶음 만들기·작업 저장 키, 저장 대상 유지, 닫힌 앱·웹 탭 다시 열기. 웹 탭은 확장에서 작업 공간 탭 저장 허용을 한 번 누르세요. Android 2.9.0 유지.",
+  "notes": "PC 1.27.0 / 확장 0.7.0: 작업 묶음 전용 메뉴, 다음 작업 묶음 키, 현재 저장 대상 표시, 열린 창·탭 선택 후 한 번에 키 지정. Android 2.9.0 유지.",
   "channel": "stable",
-  "browserExtension": "0.6.0"
+  "browserExtension": "0.7.0"
 }
