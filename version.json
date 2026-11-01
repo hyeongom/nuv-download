@@ -1,18 +1,18 @@
 {
-  "windows": "1.27.2",
+  "windows": "1.27.3",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.2-2.9.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.3-2.9.0/NUV-Windows.zip",
     "NUV-Browser-Extension-0.7.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.0-2.9.0/NUV-Browser-Extension-0.7.0.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "eb3ea7ef2e3c37bf8b0d864fedf4b1df0a0ff42f34bba5f845ea8cbd521b44b6",
+    "NUV-Windows.zip": "fb86f7bb91684c246154c7ef19f67144d5ce1d04bf1253f718ae43959c4817a0",
     "NUV-Browser-Extension-0.7.0.zip": "64bc55fe791a3047ec4210dd9a7e0f8195a2c60bcfffec6d81a11056c6882772"
   },
-  "notes": "PC 1.27.2: 작업 묶음 지정 선택창에서 이름을 검색하고 고를 수 있습니다. 메뉴에 펼쳐진 이름 목록 제거, 기존 만들기·편집 유지. 확장 0.7.0·Android 2.9.0 변경 없음.",
+  "notes": "PC 1.27.3: 설정 메뉴 버튼의 크기와 간격을 통일했습니다. F키 프리셋 및 작업 묶음 안내가 화면 오른쪽 아래에서 바로 표시되도록 위치 계산과 표시 순서를 수정했습니다. 확장 0.7.0과 Android 2.9.0은 변경 없습니다.",
   "channel": "stable",
   "browserExtension": "0.7.0"
 }
