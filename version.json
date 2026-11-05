@@ -1,18 +1,18 @@
 {
-  "windows": "1.27.3",
+  "windows": "1.27.4",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.3-2.9.0/NUV-Windows.zip",
-    "NUV-Browser-Extension-0.7.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.0-2.9.0/NUV-Browser-Extension-0.7.0.zip"
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.4-2.9.0/NUV-Windows.zip",
+    "NUV-Browser-Extension-0.7.1.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.4-2.9.0/NUV-Browser-Extension-0.7.1.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "fb86f7bb91684c246154c7ef19f67144d5ce1d04bf1253f718ae43959c4817a0",
-    "NUV-Browser-Extension-0.7.0.zip": "64bc55fe791a3047ec4210dd9a7e0f8195a2c60bcfffec6d81a11056c6882772"
+    "NUV-Windows.zip": "b7016c7affba689a65552aae506eb6d3bed82397b73aadbce895438b6f3bb9eb",
+    "NUV-Browser-Extension-0.7.1.zip": "284277ceec53cb81fe36116ac21e3270a0ca8dbfe531de7b42bcd85295146871"
   },
-  "notes": "PC 1.27.3: 설정 메뉴 버튼의 크기와 간격을 통일했습니다. F키 프리셋 및 작업 묶음 안내가 화면 오른쪽 아래에서 바로 표시되도록 위치 계산과 표시 순서를 수정했습니다. 확장 0.7.0과 Android 2.9.0은 변경 없습니다.",
+  "notes": "PC 1.27.4 / 확장 0.7.1: Netflix의 기존 오프닝 건너뛰기 키로 줄거리(지난 이야기)도 건너뛸 수 있습니다. 화면에 표시된 버튼만 누르며 기존 키 지정은 유지됩니다. PC의 동작 이름은 오프닝·줄거리 건너뛰기로 표시됩니다. 줄거리 제어는 최신 확장을 연결해 사용하세요. Android 2.9.0은 그대로 사용할 수 있습니다.",
   "channel": "stable",
-  "browserExtension": "0.7.0"
+  "browserExtension": "0.7.1"
 }
