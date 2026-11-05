@@ -1,18 +1,18 @@
 {
-  "windows": "1.27.4",
+  "windows": "1.27.5",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.4-2.9.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.5-2.9.0/NUV-Windows.zip",
     "NUV-Browser-Extension-0.7.1.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.27.4-2.9.0/NUV-Browser-Extension-0.7.1.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "b7016c7affba689a65552aae506eb6d3bed82397b73aadbce895438b6f3bb9eb",
+    "NUV-Windows.zip": "b185e2441bd4fc590af089fa54d27444e62e70faa8be15a11b2076f168d976cc",
     "NUV-Browser-Extension-0.7.1.zip": "284277ceec53cb81fe36116ac21e3270a0ca8dbfe531de7b42bcd85295146871"
   },
-  "notes": "PC 1.27.4 / 확장 0.7.1: Netflix의 기존 오프닝 건너뛰기 키로 줄거리(지난 이야기)도 건너뛸 수 있습니다. 화면에 표시된 버튼만 누르며 기존 키 지정은 유지됩니다. PC의 동작 이름은 오프닝·줄거리 건너뛰기로 표시됩니다. 줄거리 제어는 최신 확장을 연결해 사용하세요. Android 2.9.0은 그대로 사용할 수 있습니다.",
+  "notes": "PC 1.27.5: 키 우클릭의 하위 메뉴가 화면 끝에서 왼쪽으로 열릴 때 메뉴 사이의 틈 때문에 닫히는 문제를 수정했습니다. 오디오 및 미디어 → 영상 제어 등 여러 단계 메뉴의 위치를 연결하고 전환 애니메이션을 제거했습니다. 확장 0.7.1과 Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
   "browserExtension": "0.7.1"
 }
