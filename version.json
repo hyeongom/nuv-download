@@ -1,22 +1,22 @@
 {
-  "windows": "1.28.4",
+  "windows": "1.28.5",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.4.zip",
-    "NUV-Browser-Extension-0.8.6.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.6/NUV-Browser-Extension-0.8.6.zip"
+    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
+    "NUV-Browser-Extension-0.8.7.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.5-2.9.0/NUV-Browser-Extension-0.8.7.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "df8af291e57ec1a1f9f83d3cd90f01cb928c9d228a3a350dd094f4883a41c737",
-    "NUV-Browser-Extension-0.8.6.zip": "1ed9a72c2c5ebd594c08bd86b96fab77d73e8dd0e77a2e45d1f69f1e56e3bbae"
+    "NUV-Windows.zip": "b6db5d32ec9b43a6c74974e05e39a691d06067dc9a248b54a0b863e4161135a4",
+    "NUV-Browser-Extension-0.8.7.zip": "cbba3082b822e78fc5095546eae8175f9ebe18c1f0685bb01e3962f1c46c4088"
   },
-  "notes": "PC 1.28.4: 확장 업데이트의 기본 다운로드가 실패하면 GitHub 공식 API로 자동 재시도합니다. 파일 해시·확장 식별자·권한 검증은 그대로 유지합니다. 확장은 0.8.6, Android는 2.9.0을 사용합니다.",
+  "notes": "PC 1.28.5 / 확장 0.8.7: 브라우저 설치 안내 글씨가 배경에 묻히던 문제를 수정했습니다. 자동 건너뛰기의 불필요한 타이머를 제거하고, 건너뛰기 완료 후 추가 대기를 1초에서 0.25초로 줄였습니다. Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.6",
+  "browserExtension": "0.8.7",
   "recoveryDownloads": {
-    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.4.zip",
-    "NUV-Browser-Extension-0.8.6.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.6.zip"
+    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
+    "NUV-Browser-Extension-0.8.7.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.7.zip"
   }
 }
