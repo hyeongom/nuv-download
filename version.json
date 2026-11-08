@@ -5,14 +5,14 @@
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
     "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.3-2.9.0/NUV-Windows.zip",
-    "NUV-Browser-Extension-0.8.3.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.3/NUV-Browser-Extension-0.8.3.zip"
+    "NUV-Browser-Extension-0.8.4.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.4/NUV-Browser-Extension-0.8.4.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
     "NUV-Windows.zip": "f1bc25f8e1e76eb8c1e7e24a64f1a5754b4cee4885033070f5f4e4adbaf916c6",
-    "NUV-Browser-Extension-0.8.3.zip": "6e25f66ecbcb833ab1bb8264cc6a57d88dce947dc8812e2d653fecd7b7b5b0e5"
+    "NUV-Browser-Extension-0.8.4.zip": "6edfffd9ce20dc4b826ae8fe8c86226954e18a2aee48d721ed0f16aecfd64091"
   },
-  "notes": "확장 0.8.3: 줄거리 이동이 끝나기 전에 오프닝 처리가 겹쳐, 오프닝도 이미 건너뛴 것으로 판단할 수 있던 문제를 수정했습니다. 줄거리 이동 완료 후 오프닝을 별도로 처리합니다. PC 1.28.3과 Android 2.9.0은 그대로 사용합니다.",
+  "notes": "확장 0.8.4: 이미 건너뛴 줄거리·오프닝 구간으로 되감으면 자동 건너뛰기가 다시 작동합니다. 버튼이 잠깐 숨겨졌다 나타나는 경우의 반복 클릭은 방지하며, 줄거리와 오프닝은 순서대로 처리합니다. PC 1.28.3과 Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.3"
+  "browserExtension": "0.8.4"
 }
