@@ -5,18 +5,18 @@
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
-    "NUV-Browser-Extension-0.8.7.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.5-2.9.0/NUV-Browser-Extension-0.8.7.zip"
+    "NUV-Browser-Extension-0.8.8.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.8/NUV-Browser-Extension-0.8.8.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
     "NUV-Windows.zip": "b6db5d32ec9b43a6c74974e05e39a691d06067dc9a248b54a0b863e4161135a4",
-    "NUV-Browser-Extension-0.8.7.zip": "cbba3082b822e78fc5095546eae8175f9ebe18c1f0685bb01e3962f1c46c4088"
+    "NUV-Browser-Extension-0.8.8.zip": "174ac73d5604047b7504137a3cb6c936575b50aa61412f42ab13c450fd91b3b7"
   },
-  "notes": "PC 1.28.5 / 확장 0.8.7: 브라우저 설치 안내 글씨가 배경에 묻히던 문제를 수정했습니다. 자동 건너뛰기의 불필요한 타이머를 제거하고, 건너뛰기 완료 후 추가 대기를 1초에서 0.25초로 줄였습니다. Android 2.9.0은 그대로 사용합니다.",
+  "notes": "확장 0.8.8: 확인 작업 중 새 건너뛰기 버튼이 나타나면 알림을 놓치지 않고 즉시 다시 검사합니다. 처음 연결했을 때 이미 있는 버튼, 재생 준비 완료와 버튼 애니메이션 완료도 검사합니다. PC 1.28.5와 Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.7",
+  "browserExtension": "0.8.8",
   "recoveryDownloads": {
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
-    "NUV-Browser-Extension-0.8.7.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.7.zip"
+    "NUV-Browser-Extension-0.8.8.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.8.zip"
   }
 }
