@@ -5,14 +5,14 @@
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
     "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.3-2.9.0/NUV-Windows.zip",
-    "NUV-Browser-Extension-0.8.2.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.3-2.9.0/NUV-Browser-Extension-0.8.2.zip"
+    "NUV-Browser-Extension-0.8.3.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.3/NUV-Browser-Extension-0.8.3.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
     "NUV-Windows.zip": "f1bc25f8e1e76eb8c1e7e24a64f1a5754b4cee4885033070f5f4e4adbaf916c6",
-    "NUV-Browser-Extension-0.8.2.zip": "16319cd0b75246a4ec23dabbfd0564663bab1bc82d83606718341091d686b498"
+    "NUV-Browser-Extension-0.8.3.zip": "6e25f66ecbcb833ab1bb8264cc6a57d88dce947dc8812e2d653fecd7b7b5b0e5"
   },
-  "notes": "PC 1.28.3 / 확장 0.8.2: 자동 건너뛰기 등의 체크 표시가 어두운 테마에서 잘 보이지 않던 문제를 수정했습니다. NUV 다음 화 키로 이동한 뒤 이전 명령의 응답 대기 때문에 새 회차의 자동 건너뛰기가 막히던 처리를 수정했습니다. Android 2.9.0은 그대로 사용합니다.",
+  "notes": "확장 0.8.3: 줄거리 이동이 끝나기 전에 오프닝 처리가 겹쳐, 오프닝도 이미 건너뛴 것으로 판단할 수 있던 문제를 수정했습니다. 줄거리 이동 완료 후 오프닝을 별도로 처리합니다. PC 1.28.3과 Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.2"
+  "browserExtension": "0.8.3"
 }
