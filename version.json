@@ -5,14 +5,14 @@
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
     "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.3-2.9.0/NUV-Windows.zip",
-    "NUV-Browser-Extension-0.8.5.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.5/NUV-Browser-Extension-0.8.5.zip"
+    "NUV-Browser-Extension-0.8.6.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.6/NUV-Browser-Extension-0.8.6.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
     "NUV-Windows.zip": "f1bc25f8e1e76eb8c1e7e24a64f1a5754b4cee4885033070f5f4e4adbaf916c6",
-    "NUV-Browser-Extension-0.8.5.zip": "28a73bde8c032d54d40bc2d02c858c8d1485a353dabe63a1c9ff3da3c689116b"
+    "NUV-Browser-Extension-0.8.6.zip": "1ed9a72c2c5ebd594c08bd86b96fab77d73e8dd0e77a2e45d1f69f1e56e3bbae"
   },
-  "notes": "확장 0.8.5: 다음 회차로 넘어간 뒤 이전 영상 주소가 남은 확장 메시지 때문에 자동 건너뛰기가 거절되던 문제를 수정했습니다. 현재 영상 탭과 문서를 확인하여 새로고침 없이 다음 회차에서도 자동 건너뛰기를 이어갑니다. 되감기 후 다시 건너뛰기와 줄거리·오프닝 순서 처리는 유지됩니다. PC 1.28.3과 Android 2.9.0은 그대로 사용합니다.",
+  "notes": "확장 0.8.6: 건너뛰기 버튼이 조작 화면과 함께 숨었을 때 화면을 다시 표시하고 현재 버튼을 찾아 실행하도록 수정했습니다. 다음 회차에서 늦게 나타나는 버튼도 자동으로 처리하며, 수동 키는 사라진 버튼을 다시 찾아 실행합니다. 되감기와 회차 전환 처리도 유지됩니다. PC 1.28.3과 Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.5"
+  "browserExtension": "0.8.6"
 }
