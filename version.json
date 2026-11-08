@@ -1,18 +1,18 @@
 {
-  "windows": "1.28.1",
+  "windows": "1.28.2",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.1-2.9.0/NUV-Windows.zip",
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.2-2.9.0/NUV-Windows.zip",
     "NUV-Browser-Extension-0.8.1.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.1-2.9.0/NUV-Browser-Extension-0.8.1.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "f1de453966fc29e621c6665d7e370ca3399e9b0902d3388d476e1de558fd433c",
+    "NUV-Windows.zip": "95de5a80a0162a2cd660e582e182f22da23ce4c2bb1d4952fc7e7212914252a4",
     "NUV-Browser-Extension-0.8.1.zip": "ab3c781c98f500097e3f29e77a093ee38e335c97a6c95f273322a69d966ce1e7"
   },
-  "notes": "PC 1.28.1 / 확장 0.8.1: 브라우저 연결·즐겨찾기·작업 묶음을 설정 창 안에서 관리하도록 정리했습니다. 자동 건너뛰기는 줄거리와 오프닝을 각각 구분하고, 첫 클릭이 반영되지 않으면 제한적으로 재시도합니다. 버튼 표시 변화 감지를 보완했습니다. Android 2.9.0은 그대로 사용합니다.",
+  "notes": "PC 1.28.2: 작업 묶음의 창·탭 목록이 어두운 배경에서 검은 글씨로 표시되던 문제를 수정했습니다. 목록을 새로 불러오거나 테마를 바꿔도 배경에 맞는 글자색을 유지합니다. 브라우저 확장 0.8.1과 Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
   "browserExtension": "0.8.1"
 }
