@@ -4,7 +4,7 @@ fetch('version.json', {cache: 'no-store'}).then(response => {
   if (!response.ok) throw new Error('Release feed unavailable');
   return response.json();
 }).then(feed => {
-  const allowed = value => typeof value === 'string' && /^https:\/\/github\.com\/hyeongom\/nuv-download\/releases\/download\//.test(value);
+  const allowed = value => typeof value === 'string' && (/^https:\/\/github\.com\/hyeongom\/nuv-download\/releases\/download\//.test(value) || /^https:\/\/hyeongom\.github\.io\/nuv-download\/recovery\/NUV-[A-Za-z0-9.-]+\.zip$/.test(value));
   document.querySelectorAll('[data-version]').forEach(node => {
     const value = feed[node.dataset.version];
     if (typeof value === 'string' && /^\d+\.\d+\.\d+$/.test(value)) node.textContent = value;
