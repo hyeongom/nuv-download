@@ -1,18 +1,18 @@
 {
-  "windows": "1.28.0",
+  "windows": "1.28.1",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.0-2.9.0/NUV-Windows.zip",
-    "NUV-Browser-Extension-0.8.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.0-2.9.0/NUV-Browser-Extension-0.8.0.zip"
+    "NUV-Windows.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.1-2.9.0/NUV-Windows.zip",
+    "NUV-Browser-Extension-0.8.1.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.1-2.9.0/NUV-Browser-Extension-0.8.1.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "6e4943ee65853fad8fe69c1853701a44cd773d0c406e305b5df287b772fb49ae",
-    "NUV-Browser-Extension-0.8.0.zip": "451050ea7ddc34c86d2a41057d0097d14f01d4885b5c1170337f142bf389dcae"
+    "NUV-Windows.zip": "f1de453966fc29e621c6665d7e370ca3399e9b0902d3388d476e1de558fd433c",
+    "NUV-Browser-Extension-0.8.1.zip": "ab3c781c98f500097e3f29e77a093ee38e335c97a6c95f273322a69d966ce1e7"
   },
-  "notes": "PC 1.28.0 / 확장 0.8.0: Netflix·Disney+ 자동 오프닝·줄거리 건너뛰기를 추가했습니다. PC 설정 → 브라우저 연결에서 서비스별 항목을 켜세요. 기본값은 꺼짐이며 연결된 확장에서 재생 중인 영상의 버튼만 자동으로 누릅니다. 숨겨진 아이콘의 NUV 우클릭 메뉴에서 F키 상태를 확인하고 바로 켜거나 끌 수 있습니다. Android 2.9.0은 그대로 사용합니다.",
+  "notes": "PC 1.28.1 / 확장 0.8.1: 브라우저 연결·즐겨찾기·작업 묶음을 설정 창 안에서 관리하도록 정리했습니다. 자동 건너뛰기는 줄거리와 오프닝을 각각 구분하고, 첫 클릭이 반영되지 않으면 제한적으로 재시도합니다. 버튼 표시 변화 감지를 보완했습니다. Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.0"
+  "browserExtension": "0.8.1"
 }
