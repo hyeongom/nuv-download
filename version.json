@@ -5,18 +5,18 @@
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
-    "NUV-Browser-Extension-0.8.9.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.9/NUV-Browser-Extension-0.8.9.zip"
+    "NUV-Browser-Extension-0.8.10.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.10/NUV-Browser-Extension-0.8.10.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
     "NUV-Windows.zip": "b6db5d32ec9b43a6c74974e05e39a691d06067dc9a248b54a0b863e4161135a4",
-    "NUV-Browser-Extension-0.8.9.zip": "8b8849897b98ff7037f3595b18872c0c9c8959ba8d374499cecaa0a1699ed5a8"
+    "NUV-Browser-Extension-0.8.10.zip": "9b695a1e2bddac5fd5268f29399db26669a59d7e6adaf1b8d8ecd1d4b9b0c7b0"
   },
-  "notes": "확장 0.8.9: 자동 건너뛰기가 투명하거나 클릭을 받지 않는 버튼에 재시도 횟수를 소진하지 않도록 수정했습니다. 실행 직전에 현재 버튼을 다시 찾고, 반응 없는 첫 클릭의 재시도 간격을 줄였습니다. PC 1.28.5와 Android 2.9.0은 그대로 사용합니다.",
+  "notes": "확장 0.8.10: 마우스를 움직여 건너뛰기 버튼을 다시 띄웠을 때 다음 화면 갱신에서 즉시 확인합니다. 바깥 영역이 마우스를 통과시키더라도 버튼 자체가 클릭 가능하면 실행하도록 수정했습니다. PC 1.28.5와 Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.9",
+  "browserExtension": "0.8.10",
   "recoveryDownloads": {
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
-    "NUV-Browser-Extension-0.8.9.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.9.zip"
+    "NUV-Browser-Extension-0.8.10.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.10.zip"
   }
 }
