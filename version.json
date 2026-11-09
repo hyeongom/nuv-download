@@ -5,18 +5,18 @@
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
-    "NUV-Browser-Extension-0.8.10.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.10/NUV-Browser-Extension-0.8.10.zip"
+    "NUV-Browser-Extension-0.8.11.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.11/NUV-Browser-Extension-0.8.11.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
     "NUV-Windows.zip": "b6db5d32ec9b43a6c74974e05e39a691d06067dc9a248b54a0b863e4161135a4",
-    "NUV-Browser-Extension-0.8.10.zip": "9b695a1e2bddac5fd5268f29399db26669a59d7e6adaf1b8d8ecd1d4b9b0c7b0"
+    "NUV-Browser-Extension-0.8.11.zip": "5c190cac081e28974740212b671f59a784a91bfa9a791068a5672efb9c9a82cc"
   },
-  "notes": "확장 0.8.10: 마우스를 움직여 건너뛰기 버튼을 다시 띄웠을 때 다음 화면 갱신에서 즉시 확인합니다. 바깥 영역이 마우스를 통과시키더라도 버튼 자체가 클릭 가능하면 실행하도록 수정했습니다. PC 1.28.5와 Android 2.9.0은 그대로 사용합니다.",
+  "notes": "확장 0.8.11: 줄거리 건너뛰기 후 오프닝이 지연되는 경우를 수정했습니다. 짧은 이동이나 버퍼링 뒤에도 실제 재생 위치 이동 완료를 확인해 다음 건너뛰기를 검사합니다. PC 1.28.5와 Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.10",
+  "browserExtension": "0.8.11",
   "recoveryDownloads": {
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
-    "NUV-Browser-Extension-0.8.10.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.10.zip"
+    "NUV-Browser-Extension-0.8.11.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.11.zip"
   }
 }
