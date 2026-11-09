@@ -1,22 +1,22 @@
 {
-  "windows": "1.28.5",
+  "windows": "1.28.6",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
-    "NUV-Browser-Extension-0.8.12.zip": "https://github.com/hyeongom/nuv-download/releases/download/browser-extension-v0.8.12/NUV-Browser-Extension-0.8.12.zip"
+    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.6.zip",
+    "NUV-Browser-Extension-0.8.13.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.6-2.9.0/NUV-Browser-Extension-0.8.13.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "b6db5d32ec9b43a6c74974e05e39a691d06067dc9a248b54a0b863e4161135a4",
-    "NUV-Browser-Extension-0.8.12.zip": "4f3b9f6ddd5ce8009470bae0f3930c08edbb21eeb2fb9634dbdbb0cc9be0e181"
+    "NUV-Windows.zip": "0261c817165cf2b02c8486b6031f89f181e19f0207d5bb221bb945f436899773",
+    "NUV-Browser-Extension-0.8.13.zip": "62123620923db902f06a7c58c907b677f8e97718fe52082b203e63b1f0224dbd"
   },
-  "notes": "확장 0.8.12: 건너뛰기 버튼이 서서히 나타날 때 표시 효과가 끝나기 전에도 다음 화면 갱신에서 클릭 가능 여부를 확인하도록 개선했습니다. 중복 실행 방지와 연결·설정 확인은 유지합니다. PC 1.28.5와 Android 2.9.0은 그대로 사용합니다.",
+  "notes": "PC 1.28.6 / 확장 0.8.13: 즐겨찾기·작업 묶음 상태 알림으로 자동 건너뛰기 설정이 꺼짐 처리되던 문제를 수정했습니다. 설정을 켜둔 상태에서 오프닝·줄거리 건너뛰기가 늦어지거나 실행되지 않던 원인을 해결했습니다. 개인용 진단 화면·기록은 포함하지 않습니다. Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.12",
+  "browserExtension": "0.8.13",
   "recoveryDownloads": {
-    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.5.zip",
-    "NUV-Browser-Extension-0.8.12.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.12.zip"
+    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.6.zip",
+    "NUV-Browser-Extension-0.8.13.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.13.zip"
   }
 }
