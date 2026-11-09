@@ -1,22 +1,22 @@
 {
-  "windows": "1.28.6",
+  "windows": "1.29.0",
   "android": "2.9.0",
   "androidVersionCode": 41,
   "downloads": {
     "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.24.0-2.9.0/NUV-Android.apk",
-    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.6.zip",
-    "NUV-Browser-Extension-0.8.13.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.28.6-2.9.0/NUV-Browser-Extension-0.8.13.zip"
+    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.29.0.zip",
+    "NUV-Browser-Extension-0.9.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.29.0-2.9.0/NUV-Browser-Extension-0.9.0.zip"
   },
   "sha256": {
     "NUV-Android.apk": "8ba0d097b66c8ac9d44ec7671ba2722d1064deeaadb9986b11bcda5761f0e286",
-    "NUV-Windows.zip": "0261c817165cf2b02c8486b6031f89f181e19f0207d5bb221bb945f436899773",
-    "NUV-Browser-Extension-0.8.13.zip": "62123620923db902f06a7c58c907b677f8e97718fe52082b203e63b1f0224dbd"
+    "NUV-Windows.zip": "1be5a9b77a5181d59f4c238f08fe54cd1ec1ec105f779bfed014f3c7f3c43eaf",
+    "NUV-Browser-Extension-0.9.0.zip": "e44a6bbcf3c608b8bb19624bef702a50cf538c59c3134c32b7bb84da5cf1fb62"
   },
-  "notes": "PC 1.28.6 / 확장 0.8.13: 즐겨찾기·작업 묶음 상태 알림으로 자동 건너뛰기 설정이 꺼짐 처리되던 문제를 수정했습니다. 설정을 켜둔 상태에서 오프닝·줄거리 건너뛰기가 늦어지거나 실행되지 않던 원인을 해결했습니다. 개인용 진단 화면·기록은 포함하지 않습니다. Android 2.9.0은 그대로 사용합니다.",
+  "notes": "PC 1.29.0 / 확장 0.9.0: YouTube 광고 건너뛰기 버튼이 활성화되면 자동으로 누르는 기능을 추가했습니다. PC 설정 → 브라우저 연결 → 자동 건너뛰기에서 YouTube · 광고 건너뛰기를 켜세요. 대기 중이거나 건너뛰기 버튼이 없는 광고는 그대로 재생됩니다. Android 2.9.0은 그대로 사용합니다.",
   "channel": "stable",
-  "browserExtension": "0.8.13",
+  "browserExtension": "0.9.0",
   "recoveryDownloads": {
-    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.28.6.zip",
-    "NUV-Browser-Extension-0.8.13.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.8.13.zip"
+    "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.29.0.zip",
+    "NUV-Browser-Extension-0.9.0.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.9.0.zip"
   }
 }
