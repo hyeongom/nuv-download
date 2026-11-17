@@ -15,5 +15,5 @@ fetch('version.json', {cache: 'no-store'}).then(response => {
   });
   const extension = Object.entries(feed.downloads || {}).find(([name]) => name.startsWith('NUV-Browser-Extension-'));
   if (extension && allowed(extension[1])) document.querySelector('[data-extension-download]').href = extension[1];
-  if (typeof feed.notes === 'string' && feed.notes.trim()) document.querySelector('#latest-pc-notes').textContent = feed.notes;
+  if (!feed.androidNotes && typeof feed.notes === 'string' && feed.notes.trim()) document.querySelector('#latest-pc-notes').textContent = feed.notes;
 }).catch(() => { /* Keep the verified download links supplied in the HTML. */ });
