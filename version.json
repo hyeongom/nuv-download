@@ -1,23 +1,23 @@
 {
   "windows": "1.32.0",
-  "android": "2.10.2",
-  "androidVersionCode": 45,
+  "android": "2.10.3",
+  "androidVersionCode": 46,
   "downloads": {
-    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.32.0-2.10.2/NUV-Android.apk",
+    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.32.0-2.10.3/NUV-Android.apk",
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.32.0.zip",
     "NUV-Browser-Extension-0.11.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.31.0-2.9.0/NUV-Browser-Extension-0.11.0.zip"
   },
   "sha256": {
-    "NUV-Android.apk": "0533c3c45085b2c8788f4a8c15682259411e267a24344f2dfd4eeba39fdb0893",
+    "NUV-Android.apk": "aa0d32571c27e71a37af2b6980d226de11f8da7b82ee69d09570ec2b686c8617",
     "NUV-Windows.zip": "37ff903f99234544388cba0ab3aacfe4babca4e0fce5fab174c85ca826e2541f",
     "NUV-Browser-Extension-0.11.0.zip": "49711fcc1288765e7c00c9cd314b1805e616dcb29009c53c8db857c6ff448c9d"
   },
-  "notes": "Android 2.10.2: 정식 NUV에 Netflix 자동 건너뛰기 진단을 추가했습니다. 설정 → 자동 건너뛰기에서 넷플릭스 진단 시작과 진단 결과 복사를 사용할 수 있습니다. 설정 메뉴는 줄바꿈되어 자동 건너뛰기 탭을 바로 찾을 수 있습니다. 진단 시작 → 넷플릭스로 이동 → 건너뛰기 버튼이 보이는 상태로 5초 기다리기 → NUV로 돌아와 진단 결과 복사 순서로 확인하세요. 직접 시작한 뒤 60초간 인식·클릭 단계와 버튼 구조의 속성만 메모리에 기록합니다. 화면 문구·영상 제목·계정 정보·주소·스크린샷은 기록하지 않으며 자동 전송하지 않습니다. 이번 업데이트는 원인 확인 기능을 추가한 것이며, Netflix 자동 건너뛰기 실패가 해결됐다는 의미는 아닙니다. PC 1.32.0과 확장 0.11.0은 그대로입니다.",
+  "notes": "Android 2.10.3: 넷플릭스에서 문구 없이 제공되는 건너뛰기 버튼의 식별자 인식을 보완했습니다. 설정 탭을 좌우로 넘기는 방식으로 복원했으며, 진단 버튼과 기록 기능을 제거했습니다. 오프닝·줄거리 종류를 구분하지 않는 공통 버튼은 두 항목을 모두 켰을 때만 자동으로 누릅니다. 식별할 수 없는 버튼, 앞으로 이동·뒤로 이동·엔딩·광고·다음 화 버튼은 이 보완 경로에서 제외합니다. 기존 문구 인식은 유지됩니다. PC 1.32.0과 브라우저 확장 0.11.0은 변경되지 않습니다.",
   "channel": "stable",
   "browserExtension": "0.11.0",
   "recoveryDownloads": {
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.32.0.zip",
     "NUV-Browser-Extension-0.11.0.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.11.0.zip"
   },
-  "androidNotes": "Android 2.10.2: 정식 NUV에 Netflix 자동 건너뛰기 진단을 추가했습니다. 설정 → 자동 건너뛰기에서 넷플릭스 진단 시작과 진단 결과 복사를 사용할 수 있습니다. 설정 메뉴는 줄바꿈되어 자동 건너뛰기 탭을 바로 찾을 수 있습니다. 진단 시작 → 넷플릭스로 이동 → 건너뛰기 버튼이 보이는 상태로 5초 기다리기 → NUV로 돌아와 진단 결과 복사 순서로 확인하세요. 직접 시작한 뒤 60초간 인식·클릭 단계와 버튼 구조의 속성만 메모리에 기록합니다. 화면 문구·영상 제목·계정 정보·주소·스크린샷은 기록하지 않으며 자동 전송하지 않습니다. 이번 업데이트는 원인 확인 기능을 추가한 것이며, Netflix 자동 건너뛰기 실패가 해결됐다는 의미는 아닙니다. PC 1.32.0과 확장 0.11.0은 그대로입니다."
+  "androidNotes": "Android 2.10.3: 넷플릭스에서 문구 없이 제공되는 건너뛰기 버튼의 식별자 인식을 보완했습니다. 설정 탭을 좌우로 넘기는 방식으로 복원했으며, 진단 버튼과 기록 기능을 제거했습니다. 오프닝·줄거리 종류를 구분하지 않는 공통 버튼은 두 항목을 모두 켰을 때만 자동으로 누릅니다. 식별할 수 없는 버튼, 앞으로 이동·뒤로 이동·엔딩·광고·다음 화 버튼은 이 보완 경로에서 제외합니다. 기존 문구 인식은 유지됩니다. PC 1.32.0과 브라우저 확장 0.11.0은 변경되지 않습니다."
 }
