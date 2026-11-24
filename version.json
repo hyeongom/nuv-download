@@ -1,23 +1,23 @@
 {
   "windows": "1.32.0",
-  "android": "2.10.5",
-  "androidVersionCode": 48,
+  "android": "2.10.6",
+  "androidVersionCode": 49,
   "downloads": {
-    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.32.0-2.10.5/NUV-Android.apk",
+    "NUV-Android.apk": "https://github.com/hyeongom/nuv-download/releases/download/v1.32.0-2.10.6/NUV-Android.apk",
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.32.0.zip",
     "NUV-Browser-Extension-0.11.0.zip": "https://github.com/hyeongom/nuv-download/releases/download/v1.31.0-2.9.0/NUV-Browser-Extension-0.11.0.zip"
   },
   "sha256": {
-    "NUV-Android.apk": "4e7dc14c379720af862cc8abd4526b9d911ff4a7a185073a5e6cd376cfa56b8b",
+    "NUV-Android.apk": "5c372bf9e30cd436bd5b0bb5e65e6f881232dd8863917085ae652d18f90d5448",
     "NUV-Windows.zip": "37ff903f99234544388cba0ab3aacfe4babca4e0fce5fab174c85ca826e2541f",
     "NUV-Browser-Extension-0.11.0.zip": "49711fcc1288765e7c00c9cd314b1805e616dcb29009c53c8db857c6ff448c9d"
   },
-  "notes": "Android 2.10.5: 넷플릭스 오프닝·줄거리 버튼의 숨은 문자를 처리하고, ‘줄거리 요약 건너뛰기’와 영상 종료 화면의 ‘시리즈 재생’ 버튼을 인식하도록 수정했습니다. 자동 건너뛰기에서 오프닝, 줄거리, 다음 화 자동 재생을 각각 켜고 끌 수 있습니다. 다음 화는 종료 안내에 표시된 버튼을 처리하며, 영상 재생 중간의 다음 화 버튼은 자동으로 누르지 않습니다. 설정 탭의 좌우 스크롤은 유지되고 진단 기능은 포함하지 않습니다. PC 1.32.0과 브라우저 확장 0.11.0은 변경되지 않습니다.",
+  "notes": "Android 2.10.6: 자동 건너뛰기 설정에 ‘사용 버튼이 잠겨 있나요?’ 안내와 NUV 앱 정보 바로가기를 추가했습니다. ‘제한된 설정’ 때문에 접근성을 켤 수 없을 때 앱 정보 → 더보기(⋮) → 제한된 설정 허용 → 접근성에서 NUV 자동 건너뛰기 사용 순서로 안내합니다. 안내는 펼치거나 접을 수 있습니다. 기존 자동 건너뛰기 동작과 설정 탭의 좌우 스크롤은 유지됩니다. 진단 기능은 포함하지 않습니다. PC 1.32.0과 브라우저 확장 0.11.0은 변경되지 않습니다.",
   "channel": "stable",
   "browserExtension": "0.11.0",
   "recoveryDownloads": {
     "NUV-Windows.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Windows-1.32.0.zip",
     "NUV-Browser-Extension-0.11.0.zip": "https://hyeongom.github.io/nuv-download/recovery/NUV-Browser-Extension-0.11.0.zip"
   },
-  "androidNotes": "Android 2.10.5: 넷플릭스 오프닝·줄거리 버튼의 숨은 문자를 처리하고, ‘줄거리 요약 건너뛰기’와 영상 종료 화면의 ‘시리즈 재생’ 버튼을 인식하도록 수정했습니다. 자동 건너뛰기에서 오프닝, 줄거리, 다음 화 자동 재생을 각각 켜고 끌 수 있습니다. 다음 화는 종료 안내에 표시된 버튼을 처리하며, 영상 재생 중간의 다음 화 버튼은 자동으로 누르지 않습니다. 설정 탭의 좌우 스크롤은 유지되고 진단 기능은 포함하지 않습니다. PC 1.32.0과 브라우저 확장 0.11.0은 변경되지 않습니다."
+  "androidNotes": "Android 2.10.6: 자동 건너뛰기 설정에 ‘사용 버튼이 잠겨 있나요?’ 안내와 NUV 앱 정보 바로가기를 추가했습니다. ‘제한된 설정’ 때문에 접근성을 켤 수 없을 때 앱 정보 → 더보기(⋮) → 제한된 설정 허용 → 접근성에서 NUV 자동 건너뛰기 사용 순서로 안내합니다. 안내는 펼치거나 접을 수 있습니다. 기존 자동 건너뛰기 동작과 설정 탭의 좌우 스크롤은 유지됩니다. 진단 기능은 포함하지 않습니다. PC 1.32.0과 브라우저 확장 0.11.0은 변경되지 않습니다."
 }
